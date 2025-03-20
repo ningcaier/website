@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dr. Jane Doe",
+    "section": "",
+    "text": "I am a recent PhD graduate in Computer Science from Stanford University, specializing in Artificial Intelligence and Machine Learning. My research focuses on developing novel deep learning algorithms for natural language processing. I am passionate about using AI to solve real-world problems and contribute to the advancement of knowledge."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Dr. Jane Doe",
+    "section": "",
+    "text": "I am a recent PhD graduate in Computer Science from Stanford University, specializing in Artificial Intelligence and Machine Learning. My research focuses on developing novel deep learning algorithms for natural language processing. I am passionate about using AI to solve real-world problems and contribute to the advancement of knowledge."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Dr. Jane Doe",
+    "section": "Education",
+    "text": "Education\n\nPhD in Computer Science, Stanford University, 2025\n\nDissertation: “Deep Learning for Natural Language Processing”\nGPA: 4.0\n\nMS in Computer Science, Massachusetts Institute of Technology (MIT), 2022\n\nGPA: 4.0\n\nBS in Computer Science, California Institute of Technology (Caltech), 2020\n\nGPA: 4.0"
+  },
+  {
+    "objectID": "index.html#honors-and-awards",
+    "href": "index.html#honors-and-awards",
+    "title": "Dr. Jane Doe",
+    "section": "Honors and Awards",
+    "text": "Honors and Awards\n\nStanford Graduate Fellowship, 2020-2025\nMIT Presidential Fellowship, 2020-2022\nCaltech Merit Scholarship, 2016-2020\nBest Paper Award, International Conference on Machine Learning (ICML), 2024"
+  },
+  {
+    "objectID": "index.html#contact-information",
+    "href": "index.html#contact-information",
+    "title": "Dr. Jane Doe",
+    "section": "Contact Information",
+    "text": "Contact Information\n\nEmail: jane.doe@example.com\nWebsite: https://jane.doe.com\nLinkedIn: https://www.linkedin.com/in/jane-doe\nGitHub: https://github.com/jane-doe"
+  },
+  {
+    "objectID": "academic-website.html",
+    "href": "academic-website.html",
+    "title": "academic-website",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "academic-website.html#quarto",
+    "href": "academic-website.html#quarto",
+    "title": "academic-website",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  }
+]
